@@ -1,4 +1,4 @@
-# 📚 Corpus Linguistics Dashboard
+# 📚 Sentence Embedding + Clustering Demo
 
 Analyze English text using NLP and machine learning. This project classifies text by **register** (academic, spoken, news, social) using sentence embeddings, KMeans clustering, and a Streamlit web dashboard.
 
